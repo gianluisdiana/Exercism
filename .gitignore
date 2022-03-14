@@ -1,7 +1,8 @@
 .exercism
 .eslintrc
 node_modules
-*.md
+HELP.md
+HINTS.md
 LICENSE
 babel.config.js
 .npmrc
